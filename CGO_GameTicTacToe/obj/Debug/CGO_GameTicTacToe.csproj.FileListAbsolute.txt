@@ -1,0 +1,8 @@
+D:\CodeGym\visual studio\CGO_GameTicTacToe\CGO_GameTicTacToe\obj\Debug\CGO_GameTicTacToe.csproj.AssemblyReference.cache
+D:\CodeGym\visual studio\CGO_GameTicTacToe\CGO_GameTicTacToe\obj\Debug\CGO_GameTicTacToe.csproj.SuggestedBindingRedirects.cache
+D:\CodeGym\visual studio\CGO_GameTicTacToe\CGO_GameTicTacToe\obj\Debug\CGO_GameTicTacToe.csproj.CoreCompileInputs.cache
+D:\CodeGym\visual studio\CGO_GameTicTacToe\CGO_GameTicTacToe\bin\Debug\CGO_GameTicTacToe.exe.config
+D:\CodeGym\visual studio\CGO_GameTicTacToe\CGO_GameTicTacToe\bin\Debug\CGO_GameTicTacToe.exe
+D:\CodeGym\visual studio\CGO_GameTicTacToe\CGO_GameTicTacToe\bin\Debug\CGO_GameTicTacToe.pdb
+D:\CodeGym\visual studio\CGO_GameTicTacToe\CGO_GameTicTacToe\obj\Debug\CGO_GameTicTacToe.exe
+D:\CodeGym\visual studio\CGO_GameTicTacToe\CGO_GameTicTacToe\obj\Debug\CGO_GameTicTacToe.pdb
